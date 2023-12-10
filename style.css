@@ -1,0 +1,43 @@
+nav{
+    font-size: 20px;
+    text-align:center ;
+}
+nav a{
+    border: 2px  solid white;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px;
+    color:white;
+    text-decoration:none;
+}
+table{
+    background-color: lightblue;
+   border:1px solid green; 
+}
+tr{
+    border:1px solid green;
+}
+td{
+    border:1px solid green;
+}
+footer{
+    background-color:black;
+}
+p{
+    font-size: 20px;
+    color:rgb(184, 184, 0);
+}
+h2{
+    border: 2px  solid white;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px;
+    color:white;
+    text-decoration:none;
+}
+a{
+    color: yellow;
+}
+body{
+    background-color: black;
+}
